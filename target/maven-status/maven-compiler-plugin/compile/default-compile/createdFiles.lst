@@ -1,0 +1,6 @@
+com\hkj\service\impl\FileServiceImpl.class
+com\hkj\controller\FileController.class
+com\hkj\service\FileService.class
+com\hkj\fdfs\FastDFSCommonsUtils.class
+com\hkj\mapper\FileInfoMapper.class
+com\hkj\pojo\FileInfo.class
